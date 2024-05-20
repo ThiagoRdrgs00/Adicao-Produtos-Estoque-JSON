@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $database = "teste_geovendas";
+    $database = "estoque";
     
     $conexao = new mysqli($servername, $username, $password, $database);
         
